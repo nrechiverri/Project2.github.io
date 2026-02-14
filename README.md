@@ -1,3 +1,10 @@
+# Neil Echiverri | Dynamics 365 FinOps Functional Consultant
+**Specialization:** Financial Automation | Global Microsoft Dynamics 365 F&O Rollouts
+
+
+> **"Bridging the gap between complex accounting standards and D365FO technical configuration to drive business transformation."**
+
+---
 ## 📉 Featured Project: Multi-Entity Year-End Close Optimization
 **Industry Archetype:** Global Manufacturing Group (10+ Legal Entities)  
 **Core Modules:** General Ledger, Consolidation, Intercompany Accounting
