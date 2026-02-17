@@ -1,4 +1,4 @@
-# Neil Echiverri | Dynamics 365 FinOps Functional Consultant
+# Neil Echiverri | MS Dynamics 365 FinOps Functional Consultant
 **Specialization:** Financial Automation | Global Microsoft Dynamics 365 F&O Rollouts
 
 
